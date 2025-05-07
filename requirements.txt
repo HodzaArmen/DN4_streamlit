@@ -2,5 +2,4 @@ matplotlib
 pandas
 numpy
 streamlit
-json
 os
